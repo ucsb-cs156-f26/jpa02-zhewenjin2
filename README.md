@@ -2,7 +2,7 @@
 
 Repo: https://github.com/ucsb-cs156-f26/jpa02-zhewenjin2
 
-Deployed at: https://jpa02-zhewenjin.dokku-10.cs.ucsb.edu
+Deployed at: https://jpa02-zhewenjin2.dokku-10.cs.ucsb.edu
 
 # About this repo
 
